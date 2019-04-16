@@ -1,0 +1,13 @@
+{
+    "id": "castbox",
+    "name": "Castbox",
+    "version": "0.1",
+    "description": "Podcasting client",
+    "main": "index.js",
+    "author": "Aljaž Markežič <aljaz.markezic@gmail.com>",
+    "license": "MIT",
+    "config": {
+        "serviceURL": "https://castbox.fm/",
+        "serviceName": "Castbox"
+    }
+}
